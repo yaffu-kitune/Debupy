@@ -1,0 +1,7 @@
+debugmode.py
+setup.py
+debugmode.egg-info/PKG-INFO
+debugmode.egg-info/SOURCES.txt
+debugmode.egg-info/dependency_links.txt
+debugmode.egg-info/entry_points.txt
+debugmode.egg-info/top_level.txt
